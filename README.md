@@ -12,5 +12,6 @@
 - **Pasākumu kalendārs** – gaidāmie notikumi un aktivitātes
 - **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
 
+
 ## Projekta dokuments
-Pieejams: (https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true)
+Pieejams: https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true
