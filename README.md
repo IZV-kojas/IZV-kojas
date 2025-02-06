@@ -13,10 +13,3 @@
 - **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
 
 Projekta dokuments: (https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true)
-
-## Tehnoloģijas
-Projekts tiek izstrādāts, izmantojot:
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Datu bāze:** MongoDB / MySQL
-- **Papildu rīki:** GitHub versiju kontrole, API integrācijas
