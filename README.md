@@ -1,4 +1,4 @@
-# Kopmītņu iedzīvotāju programmēšanas projekts
+# IZV Koju Saite
 
 ## Projekta apraksts
 Šis ir **kopmītņu mājaslapas projekts**, kas paredzēts visiem kopmītņu iedzīvotājiem, IZV skolēniem un citiem interesentiem. Mājaslapa kalpos kā **informatīvs un interaktīvs resurss**, kur varēs uzzināt par kopmītņu dzīvi, vēsturi un aktuālajiem notikumiem.
