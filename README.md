@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kopmītņu iedzīvotāju programmēšanas projekts
 
-<!--
-**IZV-kojas/IZV-kojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projekta apraksts
+Šis ir **kopmītņu mājaslapas projekts**, kas paredzēts visiem kopmītņu iedzīvotājiem, IZV skolēniem un citiem interesentiem. Mājaslapa kalpos kā **informatīvs un interaktīvs resurss**, kur varēs uzzināt par kopmītņu dzīvi, vēsturi un aktuālajiem notikumiem.
 
-Here are some ideas to get you started:
+## Funkcionalitāte
+- **Informācija par kopmītņu dzīvi** – jaunumi, noteikumi, interesanti fakti
+- **Kopmītņu receptes** – iedzīvotāju iecienītākās receptes
+- **Vēstures sadaļa** – kopmītņu izcelsme un attīstība
+- **Iedzīvotāju profili** – informācija par kopmītņu iedzīvotājiem
+- **Saziņas platforma "Koju Blogs"** – iespēja dalīties pieredzē un diskutēt
+- **Pasākumu kalendārs** – gaidāmie notikumi un aktivitātes
+- **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projekta dokuments: (https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true)
+
+## Tehnoloģijas
+Projekts tiek izstrādāts, izmantojot:
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Datu bāze:** MongoDB / MySQL
+- **Papildu rīki:** GitHub versiju kontrole, API integrācijas
