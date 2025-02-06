@@ -13,5 +13,8 @@
 - **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
 
 
+## Tīmekļa vietne
+Pieejams: https://ej.uz/IZV-kojas
+
 ## Projekta dokuments
 Pieejams: https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true
