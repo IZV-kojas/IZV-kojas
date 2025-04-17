@@ -1,0 +1,180 @@
+# Copyright (C) 2023 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - Private Content plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Private Content 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/private-content\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-11T21:48:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: um-private-content\n"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - Private Content"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://ultimatemember.com/extensions/private-content"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display private content to logged-in users that only they can access."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:58
+msgid "You see the predefined content template below. <b>Update</b> private content to apply this template for the user. You can edit this template before saving or leave it as it is."
+msgstr ""
+
+#. translators: %s - link to the Private Content settings.
+#: includes/core/class-private-content-admin.php:118
+msgid "You have users without Private Content posts. It's highly recommended to <a href=\"%s\">create</a> Private Content posts if you need to show it for these users."
+msgstr ""
+
+#. translators: %s - link to the Private Content settings.
+#: includes/core/class-private-content-admin.php:140
+msgid "You have user roles without Private Content posts. It's highly recommended to <a href=\"%s\">create</a> Private Content posts if you need to show it for these user roles."
+msgstr ""
+
+#. translators: %s is the role name.
+#. translators: %s is the username.
+#: includes/core/class-private-content-admin.php:174
+#: includes/core/class-private-content-admin.php:190
+msgid "Private Content for %s"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:211
+#: includes/core/class-private-content-admin.php:243
+#: includes/core/class-private-content-setup.php:25
+#: includes/core/class-private-content-setup.php:59
+#: includes/core/filters/um-private-content-settings.php:22
+#: includes/core/filters/um-private-content-tabs.php:15
+#: includes/core/um-private-content-init.php:180
+msgid "Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:369
+msgid "Private Content pages was generated successfully"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:416
+msgid "Private Content pages for user roles was generated successfully"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:58
+#: includes/core/um-private-content-init.php:179
+msgid "Private Contents"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:60
+#: includes/core/class-private-content-setup.php:61
+#: includes/core/um-private-content-init.php:181
+#: includes/core/um-private-content-init.php:182
+msgid "Add New Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:62
+#: includes/core/um-private-content-init.php:183
+msgid "Edit Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:63
+#: includes/core/um-private-content-init.php:184
+msgid "You did not create any private contents yet"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:64
+#: includes/core/um-private-content-init.php:185
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:65
+#: includes/core/um-private-content-init.php:186
+msgid "Search Private Contents"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:15
+msgid "Private Content License Key"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:27
+msgid "Generate pages"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:28
+msgid "Generate pages for existing users"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:29
+msgid "Generate pages for already existing users"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:35
+msgid "Generate pages for user roles"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:36
+msgid "Generate pages for existing user roles"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:37
+msgid "Generate pages for already existing user roles"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:43
+msgid "Private Content Tab Title"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:44
+msgid "This is the title of the tab for show user's private content"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:49
+msgid "Private Content Tab Icon"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:50
+msgid "This is the icon of the tab for show user's private content"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:56
+msgid "Private Content Tab Order"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:57
+msgid "if the user has multiple roles - the order will be determined by role priority"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:60
+msgid "User private content first"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:61
+msgid "Role private content first"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:67
+msgid "Predefined content template"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:68
+msgid "If the Private Content post content is empty, this template is used as a predefined content for Private Content post draft. Convenient to use if you need to create similar private content for users."
+msgstr ""
+
+#. translators: %s is the Private Content extension name.
+#: um-private-content.php:51
+#: um-private-content.php:68
+msgid "The <strong>%s</strong> extension requires the Ultimate Member plugin to be activated to work properly. You can download it <a href=\"https://wordpress.org/plugins/ultimate-member\">here</a>"
+msgstr ""

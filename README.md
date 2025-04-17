@@ -5,16 +5,16 @@
 
 ## Funkcionalitāte
 - **Informācija par kopmītņu dzīvi** – jaunumi, noteikumi, interesanti fakti
-- **Kopmītņu receptes** – iedzīvotāju iecienītākās receptes
-- **Vēstures sadaļa** – kopmītņu izcelsme un attīstība
+- **Kopmītņu receptes** (WIP) – iedzīvotāju iecienītākās receptes
+- **Vēstures sadaļa** (WIP) – kopmītņu izcelsme un attīstība
 - **Iedzīvotāju profili** – informācija par kopmītņu iedzīvotājiem
 - **Saziņas platforma "Koju Blogs"** – iespēja dalīties pieredzē un diskutēt
-- **Pasākumu kalendārs** – gaidāmie notikumi un aktivitātes
-- **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
+- **Pasākumu kalendārs** (WIP) – gaidāmie notikumi un aktivitātes
+- **Aprēķinu sistēma** (WIP) – rīks pasākumu budžeta plānošanai un organizēšanai
 
 
 ## Tīmekļa vietne
-Pieejams: https://izv-kojas.online
+Pieejams: https://izvkojas.com
 
 ## Projekta dokuments
 Pieejams: https://docs.google.com/document/d/1AjGb9h3W9fvTpXkpwW2cugXtutvXcjyy/edit?usp=sharing&ouid=115377672219018467340&rtpof=true&sd=true
