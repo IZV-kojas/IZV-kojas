@@ -8,8 +8,8 @@
 - **Kopmītņu receptes** – iedzīvotāju iecienītākās receptes
 - **Iedzīvotāju profili** – informācija par kopmītņu iedzīvotājiem
 - **Saziņas platforma "Koju čats"** – iespēja dalīties pieredzē un diskutēt
-- **Pasākumu kalendārs** (WIP) – gaidāmie notikumi un aktivitātes
-- **Aprēķinu sistēma** (WIP) – rīks pasākumu budžeta plānošanai un organizēšanai
+- **Pasākumu kalendārs** – gaidāmie notikumi un aktivitātes
+- **Aprēķinu sistēma** – rīks pasākumu budžeta plānošanai un organizēšanai
 - u.c.
 
 
